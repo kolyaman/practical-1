@@ -2,8 +2,8 @@
 
 #include <stdio.h>
 
-int main() 
-{
+int main() {
+
     double time1, time2, time3;
     
     scanf("%lf %lf %lf", &time1, &time2, &time3);
