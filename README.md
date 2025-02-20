@@ -1,7 +1,6 @@
 Практична робота №1 Мануйленко Микола
 
 #include <stdio.h>
-
 int main() {
     double time1, time2, time3;
     
