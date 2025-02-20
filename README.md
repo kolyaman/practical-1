@@ -1,8 +1,8 @@
 Практична робота №1 Мануйленко Микола
 
-#include <stdio.h>
+    #include <stdio.h>
 
-int main() {
+    int main() {
 
     double time1, time2, time3;
     
@@ -19,4 +19,4 @@ int main() {
     printf("%.2f\n", total_duration);
     
     return 0;
-}
+    }
